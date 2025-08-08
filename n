@@ -1,0 +1,6 @@
+from ..services.alert_service import AlertService
+import pytest
+
+def test_send_alert():
+    with pytest.raises(Exception):
+        AlertService.send_alert("Test alert")

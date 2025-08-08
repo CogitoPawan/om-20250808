@@ -1,0 +1,1 @@
+4. Run the application using Docker Compose

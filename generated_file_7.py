@@ -1,0 +1,1 @@
+3. Set up environment variables in a `.env` file
